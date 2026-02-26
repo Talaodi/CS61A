@@ -1,0 +1,10 @@
+# Python 编译文件
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# 运行 ok 后生成的文件
+.ok_history
+.ok_messages
+.ok_storage
