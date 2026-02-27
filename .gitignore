@@ -8,3 +8,6 @@ __pycache__/
 .ok_history
 .ok_messages
 .ok_storage
+.ok_consent
+.ok_context
+.ok_disabled
